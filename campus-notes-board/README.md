@@ -46,6 +46,7 @@ Campus Notes Board is a web application deployed on AWS that allows students to 
 ## 2. Prerequisites
 
 - AWS account
+- AWS Builder ID authentication (used instead of the traditional root/IAM-user login model)
 - AWS Management Console access
 - Git
 - Basic knowledge of Linux commands
